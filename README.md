@@ -1,1 +1,1 @@
-# assistant_bot
+# This is your bot assistant.
